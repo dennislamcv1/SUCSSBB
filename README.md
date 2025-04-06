@@ -1,5 +1,5 @@
 # SUCSSBB
-## ASQ-Certified Six Sigma Black Belt (CSSBB) Exam Prep Specialization
+## ASQ-Certified Six Sigma Black Belt (CSSBB) Exam Prep Specialization (3 course series)
 
 Prepare for a career in the field of Six Sigma, quality, and process improvements to get job-ready in less than 4 months. The three courses in this specialization will prepare you to take the ASQ-Certified Six Sigma Black Belt (CSSBB) exam and help you master the Six Sigma methodology, advanced statistical techniques, and team management skills to identify existing challenges, and perform process improvements.
 
